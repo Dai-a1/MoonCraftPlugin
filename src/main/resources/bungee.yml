@@ -1,0 +1,4 @@
+name: MoonMod
+version: '${project.version}'
+main: xyz.daiai.moonmod.MoonMod
+description: The one and only official MoonCraft plugin.
